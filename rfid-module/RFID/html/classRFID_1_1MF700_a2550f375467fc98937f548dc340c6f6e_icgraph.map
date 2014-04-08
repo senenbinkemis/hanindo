@@ -1,4 +1,0 @@
-<map id="RFID.MF700.tagDetectionEvent" name="RFID.MF700.tagDetectionEvent">
-<area shape="rect" id="node2" href="$classRFID_1_1MF700.html#a34bbf0cf192673db81434488646f3212" title="RFID.MF700.rfidPort\l_DataReceivedHandler" alt="" coords="251,5,402,46"/>
-<area shape="rect" id="node3" href="$classRFID_1_1MF700.html#a5eb24f3458e29388470a61c1578b5ad7" title="Open RFID port and start listening. " alt="" coords="451,12,576,39"/>
-</map>
